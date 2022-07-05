@@ -8,11 +8,11 @@ Brief Overview:
 - New Zealand based 🇳🇿
 - Work: Research Engineer I at [Soul Machines](https://www.soulmachines.com). 
 
-<a href="https://www.soulmachines.com" target="_blank"><img alt="LinkedIn" src="https://www.soulmachines.com/wp-content/uploads/SM_Logo_DarkGray.png" /></a> 
+<a href="https://www.soulmachines.com" target="_blank"><img alt="SoulMachines" src="https://www.soulmachines.com/wp-content/uploads/SM_Logo_DarkGray.png" /></a> 
 
 - Postgrad Studies: Completing a Master of Engineering in Bioengineering at the [Auckland Bioengineering Institute](https://www.auckland.ac.nz/en/abi.html) / [University of Auckland](https://www.auckland.ac.nz), New Zealand.
 
-<a href="https://www.auckland.ac.nz/en/abi.html" target="_blank"><img alt="LinkedIn" src="https://cassyni-user-files-prod.s3.amazonaws.com/DDUC2mUxGU6cRkETka76qk" /></a> 
+<a href="https://www.auckland.ac.nz/en/abi.html" target="_blank"><img alt="ABI" src="https://cassyni-user-files-prod.s3.amazonaws.com/DDUC2mUxGU6cRkETka76qk" /></a> 
 
 - Undergrad Studies: Graduated with a Bachelor of Science in Mathematics and Physics from the University of Canterbury, New Zealand.  
 - Interests: Artificial Intelligence, Deep Learning, Computational Physics, Applied Mathematics and related fields.
