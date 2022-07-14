@@ -1,8 +1,10 @@
-### Matthew French - Research Engineer in Machine Learning 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Kia+ora/Hello!+👋;This+is+Matthew+French's+GitHub;Research+Engineer+in+Machine+Learning&center=true&size=15">
+  </a>
+</h1>
 
 <a href="https://nz.linkedin.com/in/matthew-french-573a26160" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
-#### Kia ora / Hello 👋 
 
 Brief Overview: 
 - New Zealand based 🇳🇿
