@@ -6,12 +6,12 @@
 
 <a href="https://nz.linkedin.com/in/matthew-french-573a26160" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
-Brief Overview: 
-- New Zealand based 🇳🇿
+New Zealand based 🇳🇿
 
-- Postgrad Studies: Completing a Master of Engineering in Bioengineering at the [Auckland Bioengineering Institute](https://www.auckland.ac.nz/en/abi.html) / [University of Auckland](https://www.auckland.ac.nz), New Zealand.
+PhD Candidate in Physics Driven AI at the [ABI](https://www.auckland.ac.nz/en/abi.html), [UoA](https://www.auckland.ac.nz).
 
-<a href="https://www.auckland.ac.nz/en/abi.html" target="_blank"><img alt="ABI" src="https://cassyni-user-files-prod.s3.amazonaws.com/DDUC2mUxGU6cRkETka76qk" /></a> 
+BSc in Mathematics and Physics, UC.
 
-- Undergrad Studies: Graduated with a Bachelor of Science in Mathematics and Physics from the University of Canterbury, New Zealand.  
-- Interests: Artificial Intelligence, Deep Learning, Computational Physics, Applied Mathematics and related fields.
+ME in Bioengineering, UoA - [Diffeomorphic Multi-Resolution Deep Learning Registration Applied to Breast MRI](https://researchspace.auckland.ac.nz/handle/2292/64244)
+
+Research in Artificial Intelligence, Deep Learning, Computational Physics, Applied Mathematics and Bioengineering.
